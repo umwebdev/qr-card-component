@@ -23,6 +23,7 @@
   --sp-200: 16px;
 }
 
+/* utilities */
 * {
   margin: 0;
   padding: 0;
@@ -33,7 +34,6 @@ img {
   max-width: 100%;
 }
 
-/* utilities */
 body {
   font-family: Outfit, sans-serif;
   background-color: var(--slate-300);
