@@ -76,11 +76,16 @@ body {
   border-radius: 10px;
 }
 
+#qr-component .qr-component-info {
+  padding: 0 var(--sp-200);
+}
+
 #qr-component .title {
   margin-bottom: var(--sp-200);
   text-align: center;
 }
 
 #qr-component .desc {
+  color: var(--slate-500);
   text-align: center;
 }
