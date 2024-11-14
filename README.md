@@ -58,7 +58,9 @@ After making sure that everything was in order I pushed the code to the github r
 
 ### What I learned
 
-I had a firm grasp of the concepts used in building the QR component beforehand. However, this challenge gave me the chance to practice applying these skills within the structured workflow that Frontend Mentor provides.
+- using dvh instead of vh
+- using display: block; on img elements instead of display: inline; or display: inline-block;
+- using semantic html elements
 
 ### Continued development
 
