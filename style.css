@@ -43,6 +43,7 @@ body {
   align-items: center;
 
   min-height: 100vh;
+  min-height: 100dvh;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -65,7 +66,7 @@ body {
 }
 
 /* qr-component */
-#qr-component {
+.qr-component {
   padding: var(--sp-200) var(--sp-200) var(--sp-500) var(--sp-200);
   background-color: var(--white);
   border-radius: 20px;
@@ -75,22 +76,22 @@ body {
   width: 320px;
 }
 
-#qr-component img {
-  display: inline-block;
+.qr-component-img {
+  display: block;
   margin-bottom: var(--sp-300);
 
   border-radius: 10px;
 }
 
-#qr-component .qr-component-info {
+.qr-component-info {
   padding: 0 var(--sp-200);
 }
 
-#qr-component .title {
+.qr-component-title {
   margin-bottom: var(--sp-200);
   text-align: center;
 }
 
-#qr-component .desc {
+.qr-component-desc {
   text-align: center;
 }
