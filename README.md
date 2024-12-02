@@ -21,4 +21,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [umwebdev](https://www.umweb.dev)
 - Frontend Mentor - [@umwebdev](https://www.frontendmentor.io/profile/umwebdev)
-- LinkedIn - [@usamamustafa]([https://www.twitter.com/umwebdev](https://www.linkedin.com/in/usama-m-01b869130/))
+- LinkedIn - [usamamustafa](https://www.linkedin.com/in/usama-m-01b869130/)
