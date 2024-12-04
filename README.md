@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr-component-desktop.png)
-![](./qr-component-mobile.png)
+![](./qr-card-component-desktop.png)
+![](./qr-card-component-mobile.png)
 
 ### Links
 
